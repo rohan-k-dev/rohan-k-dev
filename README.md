@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Rohan Kumar 👋
 
-<!--
-**rohan-k-dev/rohan-k-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science student at BMS College of Engineering (BMSCE)
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Full-Stack Development
+- Machine Learning
+- Cloud Computing
+- Backend Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+Java • Python • JavaScript • SQL
+
+### Frontend
+React.js • HTML • CSS • Bootstrap
+
+### Backend
+Node.js • Express.js • REST APIs
+
+### Databases
+MongoDB • Firebase • MySQL
+
+### Tools & Platforms
+Git • Linux • Postman • Cloudinary • Google Cloud
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 ProctoAI
+AI-powered online proctoring platform with real-time monitoring and suspicious activity detection.
+
+### 🔹 UniStation
+Campus marketplace platform for buying and selling products using React.js, Node.js, and MongoDB.
+
+### 🔹 AquaCast
+Machine learning-based cloudburst prediction system using Random Forest and XGBoost.
+
+### 🔹 RecruitIQ
+Smart HR analytics and interview evaluation platform designed to streamline candidate assessment, workforce insights, and predictive hiring analysis.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 1st Place — AI VERSE 2.0 Hackathon (₹20K Cash Prize)
+- 🏅 12th Position — CodeSphere Codethon by GeeksforGeeks
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/rohan-kumar-19gif
+- GitHub: github.com/rohan-k-dev
+
