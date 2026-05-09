@@ -54,6 +54,5 @@ Smart HR analytics and interview evaluation platform designed to streamline cand
 
 ## 🌐 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/rohan-kumar-19gif
+- LinkedIn: www.linkedin.com/in/rohan19725
 - GitHub: github.com/rohan-k-dev
-
